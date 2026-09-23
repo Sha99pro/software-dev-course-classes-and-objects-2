@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd8823b-6a07-4051-89e2-405020fa003b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Student.java" afterDir="false" />
+    <list default="true" id="ebd8823b-6a07-4051-89e2-405020fa003b" name="Changes" comment="Add implementation for BetterStudentManager">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BetterStudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BetterStudentManager.java" afterDir="false" />
     </list>
@@ -183,6 +182,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add implementation for BetterStudentManager" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add implementation for BetterStudentManager" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
